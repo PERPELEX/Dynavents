@@ -1,11 +1,11 @@
 export default function SearchBar({
-  searchTerm,
+  searchTerm = "",
   setSearchTerm,
-  filter,
+  filter = "",
   setFilter,
-  sort,
+  sort = "",
   setSort,
-  isAscending,
+  isAscending = true,
   setIsAscending,
 }) {
   const toggleSort = () => {
@@ -71,7 +71,9 @@ export default function SearchBar({
           >
             {filter === ""
               ? "All Events"
-              : filter.charAt(0).toUpperCase() + filter.slice(1) + " Events"}
+              : (filter || "").charAt(0).toUpperCase() +
+                (filter || "").slice(1) +
+                " Events"}
           </button>
 
           {/* Sort Button with Arrow */}
@@ -82,7 +84,7 @@ export default function SearchBar({
             >
               {sort === ""
                 ? "Sort"
-                : sort.charAt(0).toUpperCase() + sort.slice(1)}
+                : (sort || "").charAt(0).toUpperCase() + (sort || "").slice(1)}
             </button>
             <svg
               xmlns="http://www.w3.org/2000/svg"
