@@ -9,10 +9,11 @@ export default function Home() {
       </h2>
       <p className="text-base sm:text-lg text-black leading-relaxed">
         Dynavents is your one-stop solution to finding info about the local
-        events. The name is inspired by 'Dynamic' from 'Dynamic360' and 'Events'
-        making Dyna-vents. The site features a single responsive and interactive
-        web-page. The page features a carousel, search bar, filters, contact
-        form, animations, and elegant UI design.
+        events. The name is inspired by &#39;Dynamic&#39; from
+        &#39;Dynamic360&#39; and &#39;Events&#39; making Dyna-vents. The site
+        features a single responsive and interactive web-page. The page features
+        a carousel, search bar, filters, contact form, animations, and elegant
+        UI design.
       </p>
 
       <div className="mt-8 w-full flex flex-wrap justify-center gap-4 text-black text-base sm:text-lg">
