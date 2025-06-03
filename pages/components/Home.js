@@ -12,8 +12,8 @@ export default function Home() {
         events. The name is inspired by &#39;Dynamic&#39; from
         &#39;Dynamic360&#39; and &#39;Events&#39; making Dyna-vents. The site
         features a single responsive and interactive web-page. The page features
-        a carousel, search bar, filters, contact form, animations, and elegant
-        UI design.
+        a carousel, nav bar, search bar, filters, contact form, splash screen
+        and elegant UI design.
       </p>
 
       <div className="mt-8 w-full flex flex-wrap justify-center gap-4 text-black text-base sm:text-lg">

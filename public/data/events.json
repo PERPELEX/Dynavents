@@ -4,27 +4,27 @@
     "dateTime": "November 12, 2025 - 8:00 AM",
     "location": "Mountain Resort",
     "description": "Relax and rejuvenate with a weekend of yoga and meditation.",
-    "image": "/images/event9.jpg",
+    "image": "/images/event1.jpg",
     "category": "Health",
     "price": "$150",
-    "status": "new"
+    "status": "hot"
   },
   {
     "name": "Tech Conference 2025",
     "dateTime": "June 20, 2025 - 10:00 AM",
     "location": "Tech Hub Auditorium",
     "description": "Join the biggest tech innovators in a one-day event filled with talks and networking.",
-    "image": "/images/event9.jpg",
+    "image": "/images/event2.jpg",
     "category": "Business",
     "price": "$99",
-    "status": "hot"
+    "status": "new"
   },
   {
     "name": "Food Carnival 2025",
     "dateTime": "September 5, 2025 - 12:00 PM",
     "location": "Downtown Park",
     "description": "Taste delicious cuisines from around the world at this food extravaganza.",
-    "image": "/images/event9.jpg",
+    "image": "/images/event3.jpg",
     "category": "Food",
     "price": "$10",
     "status": "cold"
@@ -34,7 +34,7 @@
     "dateTime": "July 15, 2025 - 2:00 PM",
     "location": "City Art Gallery",
     "description": "Explore stunning artworks from renowned artists around the world.",
-    "image": "/images/event9.jpg",
+    "image": "/images/event4.jpg",
     "category": "Art",
     "price": "Free",
     "status": "cold"
@@ -44,7 +44,7 @@
     "dateTime": "October 1, 2025 - 5:00 PM",
     "location": "Innovation Hub",
     "description": "Watch startups pitch their ideas to investors and industry leaders.",
-    "image": "/images/event9.jpg",
+    "image": "/images/event5.jpg",
     "category": "Business",
     "price": "$20",
     "status": "new"
@@ -54,7 +54,7 @@
     "dateTime": "December 3, 2025 - 9:00 AM",
     "location": "City Convention Center",
     "description": "Discover groundbreaking scientific innovations and experiments.",
-    "image": "/images/event9.jpg",
+    "image": "/images/event6.jpg",
     "category": "Education",
     "price": "$5",
     "status": "cold"
@@ -64,7 +64,7 @@
     "dateTime": "January 20, 2026 - 7:00 PM",
     "location": "Downtown Cinema",
     "description": "Enjoy a curated selection of independent films from emerging filmmakers.",
-    "image": "/images/event9.jpg",
+    "image": "/images/event7.jpg",
     "category": "Film",
     "price": "$15",
     "status": "cold"
@@ -74,7 +74,7 @@
     "dateTime": "February 14, 2026 - 6:00 AM",
     "location": "City Streets",
     "description": "Join thousands of runners in this annual marathon event.",
-    "image": "/images/event9.jpg",
+    "image": "/images/event8.jpg",
     "category": "Sports",
     "price": "$30",
     "status": "hot"
@@ -94,7 +94,7 @@
     "dateTime": "August 10, 2025 - 6:00 PM",
     "location": "Open Air Arena",
     "description": "Experience live performances by top artists in an electrifying atmosphere.",
-    "image": "/images/event9.jpg",
+    "image": "/images/event10.jpg",
     "category": "Music",
     "price": "$50",
     "status": "cold"
@@ -104,7 +104,7 @@
     "dateTime": "July 25, 2025 - 9:00 AM",
     "location": "Sunny Beach Resort",
     "description": "Enjoy a relaxing weekend at the beach with fun activities and great food.",
-    "image": "/images/event9.jpg",
+    "image": "/images/event11.jpg",
     "category": "Travel",
     "price": "$200",
     "status": "cold"
