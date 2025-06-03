@@ -1,6 +1,8 @@
 import Image from "next/image";
 
 export default function EventCard({ event, hideOnMobile }) {
+  if (!event) return null; // Prevent build errors if event is undefined
+
   // hideOnMobile: boolean, if true, hide this card on mobile
   return (
     <div
