@@ -2,17 +2,17 @@
 
 A single page responsive and interactive webiste made for a case study assigned by Dynamic360
 
-# Deployment
+## Deployment
 
 Deployed on Vercel :
 <https://dynavents-hq3s.vercel.app>
 
-# Repository
+## Repository
 
 Repo on Github :
 <https://github.com/PERPELEX/Dynavents>
 
-# Tech Stack
+## Tech Stack
 
 - **Next JS**
 - **Tailwind CSS**
@@ -48,7 +48,7 @@ Repo on Github :
 
 None as of yet.
 
-**⚠️⚠️Note: Contact form is made using web3forms API key present in .env.local so, it wont work on your local machine in case you pull it. For it to work you can either test it on real website or make your own web3forms key and place it in .env.local in root directory. The name of env variable is NEXT_PUBLIC_WEB3FORMS_API_KEY⚠️⚠️**
+**⚠️⚠️Note: Contact form is made using web3forms API key present in .env.local so, it wont work on your local machine in case you clone it. For it to work you can either test it on real website or make your own web3forms key and place it in .env.local in root directory. The name of env variable is NEXT_PUBLIC_WEB3FORMS_API_KEY⚠️⚠️**
 
 ## How to Start
 
